@@ -1,0 +1,26 @@
+body {
+    background-color: #001F3F;
+    color: #ddd;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.reveal .slides > section {
+    text-align: left;
+}
+
+.reveal .slides > section h1 {
+    font-size: 80pt;
+    margin-bottom: 0.5em;
+}
+
+.reveal .slides > section h2 {
+    font-size: 60pt;
+    margin-bottom: 0.5em;
+}
+
+.reveal .slides > section p, .reveal .slides > section li {
+    font-size: 36pt;
+    margin: 0.5em 0;
+}
