@@ -24,3 +24,7 @@ body {
     font-size: 36pt;
     margin: 0.5em 0;
 }
+
+.reveal .slides > section em {
+    font-style: italic;
+}

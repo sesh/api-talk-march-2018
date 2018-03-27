@@ -1,93 +1,129 @@
-# User Driven API Design
+# User Driven APIs
 
 Brenton Cleeland / brntn.me
 
 ---
 
-# Web APIs
+## Web APIs
 
 (REST, GraphQL, RPC, whatever...)
 
 ---
 
-# Command Line Interfaces
+## Command Line Interfaces
 
 ---
 
-# Utilities & library code
+## Utilities & library code
+
+---
+## API Driven Startups
+
+Twilio, Stripe, Sendgrid
 
 ---
 
-# API Driven Startups
-
-Twitter, Twilio, Stripe, Sendgrid
+They make developer lives easier
 
 ---
 
-## They made developer lives easier
+They care about ease of integration
 
 ---
 
-## They cared about ease of integration
+## Great APIs Drive Growth
+
+Twitter, Google, Slack
 
 ---
 
-# 5 tips to get you going
+Create growth with third party integrations
 
 ---
 
-<!-- .slide: data-background="#3D9970" -->
-# #1: Understand your consumers
+Developers == evangelists
 
 ---
 
-<!-- .slide: data-background="#3D9970" -->
-- Talk to them
-- Create user personas
+## Command Line Focussed Products
+
+Docker, Ansible, now.sh
+
+---
+
+Developer experience driven by command line UX
+
+---
+
+Confusing interfaces make adoption hard
+
+---
+
+# 5 simple tips to get you going
+
+---
+
+## #1: Understand your consumers
+
+---
+
+- Find ways to talk to your users
 - Write user-focussed stories
-- Steal from agile
+- Think about the tasks they are doing
 
 ---
 
-## Your API team needs a great tech lead, a great BA, and a great UX person
+## #2: Build what they want
 
 ---
 
-# #2: Build what they want
-
----
-
-- Give them the data they need
-- Make it easy to use
+- Give them the data they need as quickly as possible
 - Consistency is key
+- Discoverability of new features is important
 
 ---
 
-# #3: Document and test it
+## #3: Document and test it
 
 ---
 
 - An API is nothing without documentation
-- You should have test coverage for everything
-- Unit tests, integration tests, smoke tests, are all great
-- Don't forget monitoring
+- Unit tests, integration tests & smoke tests, are great but think about _user testing_ too!
 
 ---
 
-# #4: Follow standards
+## #4: Follow standards
 
 ---
 
 - Use status codes and headers
-- Tell the user what the did wrong
-- TODO: RFC SPAM
+- Tell the user what they did wrong
+- Standard authenication methods
+- Return valid responses
+- Choose a style guide
 
 ---
 
-# #5: Release, iterate and release
+## #5: Release, iterate and release
 
 ---
 
 - Your users will change, so should your API
 - Communicate features and ask for feedback
 - Don't be afraid to release new versions
+
+---
+
+## So...
+
+- Understand your consumers
+- Build what they want
+- Document and test it
+- Follow standards
+- Release, iterate and release
+
+---
+
+# Thanks!
+
+Brenton Cleeland / brntn.me
