@@ -114,8 +114,6 @@ Confusing interfaces make adoption hard
 
 ---
 
-## So...
-
 - Understand your consumers
 - Build what they want
 - Document and test it
